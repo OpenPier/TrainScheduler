@@ -1,0 +1,24 @@
+#banner {
+    height: 150px;
+    padding-top: 10px;
+  }
+  
+  #mainForm {
+    padding-top: 50px;
+  }
+  
+  label {
+    font-weight: bolder; 
+    
+
+  }
+  
+  @media only screen and (max-width: 640px) {
+    #banner{
+      height: 200px;
+    }
+  }
+
+  .input-field label {
+    position: initial;
+  }
